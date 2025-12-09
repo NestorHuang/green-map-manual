@@ -113,7 +113,7 @@
 
 - [文件中心](../README.md) - 返回文件首頁
 - [訪客指南](../guides/visitor_guide.md) - 快速入門指南
-- [夥伴指南](../guides/partner_guide.md) - 荒野夥伴專屬功能
+- [夥伴指南](../guides/partner_guide.md) - 親子團夥伴專屬功能
 
 ---
 
